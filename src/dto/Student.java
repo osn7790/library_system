@@ -11,7 +11,7 @@ public class Student {
 
     private int id;
     private String name;
-    private String student_Id;
+    private String studentId;
 
 
 
