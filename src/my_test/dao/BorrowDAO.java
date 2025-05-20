@@ -1,4 +1,4 @@
-package mytest.dao;
+package my_test.dao;
 
 import util.DatabaseUtil;
 

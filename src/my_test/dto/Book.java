@@ -1,4 +1,4 @@
-package mytest.dto;
+package my_test.dto;
 
 
 import lombok.*;

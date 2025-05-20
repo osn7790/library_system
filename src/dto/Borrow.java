@@ -12,8 +12,8 @@ import java.time.LocalDateTime;
 public class Borrow {
 
     private int id;
-    private int student_Id;
-    private int book_Id;
-    private LocalDate borrow_Date;
-    private LocalDate return_date;
+    private int studentId;
+    private int bookId;
+    private LocalDate borrowDate;
+    private LocalDate returndate;
 }
